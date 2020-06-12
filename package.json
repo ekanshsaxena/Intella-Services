@@ -1,0 +1,21 @@
+{
+  "name": "intellaservices",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "index.php",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Ekansh Saxena",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "liteserver": "^0.3.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.1.0-9",
+    "font-awesome": "^4.7.0"
+  }
+}
