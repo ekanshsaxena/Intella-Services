@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+#Intella-Services
 
-Template Name: MyBiz
-Template URL: https://bootstrapmade.com/mybiz-free-business-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is an e-commerce shopping website made with the help of "php","html","css" and "javascript".
+
